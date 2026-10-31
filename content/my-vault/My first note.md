@@ -8,3 +8,4 @@ This is my first note.
 This is the first edit to this note.
 This note points to [[my second note]]
 
+This is a second edit to this note.
