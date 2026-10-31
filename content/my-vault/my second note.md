@@ -1,5 +1,5 @@
 ---
 title: my second note
-draft: true
+draft: false
 tags:
 ---
