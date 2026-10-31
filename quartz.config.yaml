@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: davdi-shamlin.github.io/quartz
+  baseUrl: davdi-shamlin.github.io/quartz/my-vault
   ignorePatterns:
     - private
     - templates
